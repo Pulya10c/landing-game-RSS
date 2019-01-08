@@ -1,1 +1,2 @@
-# landing-game-RSS
+# Game-monstry-VS-людей 
+рабочий вариант игры для сдачи таска
